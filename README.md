@@ -11,14 +11,15 @@
 <br>
 <hr>
 
-![Installation Demo](public/assets/images/burgerGif.gif)
+![Demo](public/images/budgetTracker1.gif)
+![Demo](public/images/budgetTracker2.gif)
 
 <br>
 <hr>
 
 ## Installation
 <br>
-<p>The application can be forked or cloned from GITHUB. The app is launched in Heroku and can be opened by clicking <a href = "https://stormy-taiga-53566.herokuapp.com/"> here</a>. </p>
+<p>The application can be forked or cloned from GITHUB. The app is launched in Heroku and can be opened by clicking <a href = "https://vast-wildwood-54932.herokuapp.com/"> HERE</a>. </p>
 
 <br>
 
@@ -35,9 +36,9 @@
 <br>
 <hr>
 
-<img src = "public/assets/images/burgerpic.png" alt = "screen shot of npm start" width ="500px" height = "400px">
+<img src = "public/images/budgetTracker.png" alt = "Budget Tracker" width ="500px" height = "400px">
 
 ## Questions
 <br>
-<p>Check out the app <a href = "https://stormy-taiga-53566.herokuapp.com/" target = "blank">here...</a><br>
+<p>Check out the app <a href = "https://vast-wildwood-54932.herokuapp.com/" target = "blank">HERE...</a><br>
 <a href = "mailto:gohucosta23@hotmail.com">gohucosta23@hotmail.com</a> 
